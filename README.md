@@ -1,10 +1,10 @@
-**Projetos de JavaScript 🚀**
+# **Projetos de JavaScript 🚀**
 
 📚 **Este repositório contém os projetos práticos realizados durante o curso "JavaScript em 7 dias com projetos reais" da Udemy**. A jornada foi uma imersão nos fundamentos do JavaScript, abordando conceitos essenciais de programação e orientação a objetos, utilizando a sintaxe mais atual da linguagem!
 
 ---
 
-🔍 **O que você vai encontrar aqui?**
+## 🔍 **O que você vai encontrar aqui?**
 
 📌 **Projetos Práticos com JavaScript**  
 Aprenda na prática! Este repositório contém uma série de projetos que vão desde simples interações em páginas web até funcionalidades mais avançadas criadas com JavaScript puro.
@@ -23,10 +23,10 @@ Aprenda na prática! Este repositório contém uma série de projetos que vão d
 
 ---
 
-🔧 **O que aprender?**
+## 🔧 **O que aprender?**
 
 📚 **Fundamentos do JavaScript**  
-explorar o JavaScript de forma intuitiva, apenas com **prática**. O objetivo é entender como a linguagem funciona e como ela pode ser usada para construir **aplicações interativas** na web.
+Explore o JavaScript de forma intuitiva, apenas com **prática**. O objetivo é entender como a linguagem funciona e como ela pode ser usada para construir **aplicações interativas** na web.
 
 💡 **Técnicas e Dicas Práticas**  
 Durante o curso, aprendi como criar funcionalidades como **validação de formulários**, **interações com o usuário**, e muito mais! Tudo isso aplicando conceitos como **escopo**, **eventos**, e **funções assíncronas**.
@@ -36,7 +36,7 @@ Com a prática diária, o curso ajuda a solidificar sua base em JavaScript, prep
 
 ---
 
-📌 **Projetos Realizados:**  
+## 📌 **Projetos Realizados:**  
 
 1. **Calculadora Interativa** ➗  
 2. **To-Do List (Lista de Tarefas)** 📝  
@@ -46,15 +46,15 @@ Com a prática diária, o curso ajuda a solidificar sua base em JavaScript, prep
 
 ---
 
-⚡ **Por que aprender JavaScript?**
+## ⚡ **Por que aprender JavaScript?**
 
-- **Velocidade e Popularidade** 🚀: Uma das linguagens mais rápidas e amplamente adotadas no desenvolvimento web.
-- **Facilidade de Aprendizado** 💡: JavaScript é uma linguagem versátil e acessível para iniciantes.
-- **Alta Demanda no Mercado** 💼: Usado por gigantes como **Google**, **Facebook**, **Netflix**, e **Uber**.
+- **Velocidade e Popularidade** 🚀: Uma das linguagens mais rápidas e amplamente adotadas no desenvolvimento web.  
+- **Facilidade de Aprendizado** 💡: JavaScript é uma linguagem versátil e acessível para iniciantes.  
+- **Alta Demanda no Mercado** 💼: Usado por gigantes como **Google**, **Facebook**, **Netflix**, e **Uber**.  
 
 ---
 
-🎓 **Conclusão**  
+## 🎓 **Conclusão**  
 Este repositório é a minha jornada de aprendizado no curso "JavaScript em 7 dias", onde adquiri a base sólida de JavaScript necessário para criar projetos dinâmicos e interativos. Sinta-se à vontade para explorar, aprender, modificar ou até contribuir com novos projetos!
 
-🔗 **Vamos codar juntos!** 🖥️💙
+🔗 **Vamos codar!** 🖥️💙  
